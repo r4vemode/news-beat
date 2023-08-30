@@ -11,7 +11,7 @@ const MainPage = () => {
             <ul className="article__main-list">
               <li className="article__item">
                 <a href="/shark" target="_blank" rel="noopener noreferrer" className="image__link">
-                  <img className={'image'} src="/public/images/akula.jpg" alt=""/>
+                  <img className={'image'} src="/images/akula.jpg" alt="shark"/>
                 </a>
               </li>
               <li className="article__item">
